@@ -1,2 +1,2 @@
 # hotel-
-HotelManagement-project using netbeans
+HotelManagement-project using netbeans IDE
